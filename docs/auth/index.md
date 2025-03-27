@@ -272,7 +272,7 @@ const app = createApp({
           />
         );
       }
-      return <ProxiedSignInPage {...props} provider="gcpiap" />;
+      return <ProxiedSignInPage {...props} provider="gcpIap" />;
     },
   },
   // ..
